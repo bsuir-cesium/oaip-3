@@ -1,9 +1,5 @@
 program lab3;
 
-{$APPTYPE CONSOLE}
-
-{$R *.res}
-
 uses
   SysUtils;
 
